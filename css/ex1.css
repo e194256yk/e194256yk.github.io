@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: crimson;
+}
+h2{
+text-align: center;
+color: white;
+background-color: darkblue
+}
+h3{
+text-align: center;
+color: white;
+background-color: darkblue
+}
+tr{
+    background-color:aqua;
+}
+ol{
+    background-image:url(../images/images.jfif)
+}
+li{
+ color:yellow;
+}
+a{
+  color:yellow;
+}
+body{
+    background-image:url(../images/images%20(1).jfif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
