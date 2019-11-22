@@ -1,0 +1,28 @@
+h1{  
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h1.bluecolor{
+    color: blue;
+    background-color: black;
+}
+h2.blackcolor{
+    color: black;
+    background-color: azure;
+}
+h2.violet{
+    color: violet;
+    background-color: aqua;
+}
+h1.redcolor{
+    color: red;
+    background-color: dimgray;
+}
+body{
+    background-image:url(../images/kosen.jfif);
+}
+p{
+    color: red;
+}
